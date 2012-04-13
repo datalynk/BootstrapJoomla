@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>Bootstrap</name>
+	<creationDate>9 April 2012</creationDate>
+	<author>Jose Abad</author>
+	<copyright></copyright>
+	<authorEmail>jose.abad83@gmail.com</authorEmail>
+	<authorUrl></authorUrl>
+	<version>1.0</version>
+	<description>Bootstrap 2.0 for Joomla.</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>params.ini</filename>
+		<filename>js/jquery-1.7.1.min.js</filename>
+		<filename>js/bootstrap-alert.js</filename>
+		<filename>js/bootstrap-button.js</filename>
+		<filename>js/bootstrap-carousel.js</filename>
+		<filename>js/bootstrap-collapse.js</filename>
+		<filename>js/bootstrap-dropdown.js</filename>
+		<filename>js/bootstrap-modal.js</filename>
+		<filename>js/bootstrap-popover.js</filename>
+		<filename>js/bootstrap-scrollspy.js</filename>
+		<filename>js/bootstrap-tab.js</filename>
+		<filename>js/bootstrap-tooltip.js</filename>
+		<filename>js/bootstrap-transition.js</filename>
+		<filename>js/bootstrap-typeahead.js</filename>
+	</files>
+	<css>
+		<filename>css/template.css</filename>
+		<filename>css/layout.css</filename>
+		<filename>css/bootstrap.css</filename>
+		<filename>css/bootstrap.min.css</filename>
+		<filename>css/bootstrap-responsive.min.css</filename>
+		<filename>css/bootstrap-responsive.css</filename>
+	</css>
+	<positions>
+		<position>toolbar</position>
+		<position>inset</position>
+		<position>search</position>
+		<position>mainnav</position>
+		<position>breadcrumbs</position>
+		<position>left</position>
+		<position>right</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>user6</position>
+		<position>user7</position>
+		<position>user8</position>
+		<position>user9</position>
+		<postion>footer</postion>
+		<position>debug</position>
+	</positions>
+	<images>
+		<filename>images/glyphicons-halflings.png</filename>
+		<filename>images/glyphicons-halflings-white.png</filename>		
+	</images>
+</install>
